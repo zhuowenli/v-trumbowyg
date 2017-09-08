@@ -42,7 +42,7 @@ Vue.component(VueTrumbowyg.name, VueTrumbowyg);
 
 ## props
 
-```
+```js
 {
     id: {
         type: [String, Number],
